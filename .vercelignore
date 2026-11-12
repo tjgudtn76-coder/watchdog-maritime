@@ -1,0 +1,7 @@
+# Vercel에 올리지 않을 것들 (비밀 값, 임시 보관함, 시험·작업용 파일)
+.env
+.env.*
+trash-can
+.claude
+test-cases
+tsconfig.tsbuildinfo
